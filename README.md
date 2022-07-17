@@ -1,19 +1,34 @@
 <html>
-    <title>Боевые искуства</title>
-    <body style="font-family:sans-serif">
-    <header style="background-color:black">
-        <img src="/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-        <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" style="color:white">История</a>
-    </header>
-    <main style="background-color:lightgray">
-        <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств<br/>
-        <img src="/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/></h1>
-        <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. <br/>У нас представлены: <b><i>традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое</i></b>. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-        <img src="/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px";/><img src="/uploads/2020/10/punching-bag_0_1602525500.png" height="230px";/><img src="/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px";/>
-    </main>
-    <footer style="background-color:black;color:white;">
-        <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
-        <p>Тел.:596-457</p>
-    </footer>
-    </body>
-</html>
+    <a href="https://ru.wikipedia.org/wiki/Dota_2">Узнать о Dota2 больше</a>
+    <h1>
+        Dota2
+        </h1>
+    <img src="https://cybersport.metaratings.ru/storage/images/90/7b/907b4fa2f71c17184d9ee01182fdd3ab.jpg" width="270px" heigh="270px"/>
+    
+    <img src="https://ggdt.ru/file/2020/04/dota_2_logo_emblem_510948_2048x1152.jpg" width="270px" heigh="270px"/>
+     <img src="https://static.goodgame.ru/files/pics/218473_sT0z.jpg" width="280px" heigh="270px"/>
+    
+    <p> 
+        <font color="red">Dota 2 — многопользовательская ролевая стратегия в жанре MOBA, в которой ироки сражаются друг с другом 5 на 5. </font>
+        </p>
+    
+    <p>
+            <font color="red">Главная цель уничтожить главное здание на базе противника. </font>
+        </p>
+    <img src="https://barbarcheat.com/wp-content/uploads/2020/02/dota-2-ancient.png" width="400px" heigh="400px"/>
+    
+    <p>
+        <font color="red">Dota - это командная игра!</font>
+        </p> 
+
+    <p>
+        <font color="red">Для людей, кто привык играть в своей команде или в компании людей с микрофоном которых трое или четверо и все с микрофоном поймут, в чём весь интерес игры.</font>
+        </p> 
+    <p>
+        Кликните что бы узнать:
+        </p>
+    <a href="https://mmogamesbase.com/articles/gajd-dlya-novichkov-dota-2.html"><img src="https://avatars.mds.yandex.net/get-zen_doc/1860332/pub_5e7e02d8b0d2c37f5d21b159_5e7e030a3c372463aa7a4c1f/scale_1200" width="400px" heigh="400px"/></a>
+    
+
+    
+
